@@ -7,6 +7,5 @@
  * 나의 데이터 알아가기 흔적
     * 데이터 불러와 탐색해 보기- [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
 
-
 ### 캐글 코리아 4차 대회 분석
 
