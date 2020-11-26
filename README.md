@@ -9,7 +9,7 @@
 
 ### plotly를 활용한 타이타닉 생존자 데이터 분석
  * 시각화 라이브러리 plotly를 활용해서 데이터를 살펴보기
- * 데이터 불러와 탐색해 보기- [PDF](___)
+ * 데이터 불러와 탐색해 보기- [PDF](https://ldjwj.github.io/myDataAnalysis/toto_plotly_titanic.pdf)
 
 ### 캐글 코리아 4차 대회 분석
 
