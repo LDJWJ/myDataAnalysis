@@ -11,5 +11,9 @@
  * 시각화 라이브러리 plotly를 활용해서 데이터를 살펴보기
  * 데이터 불러와 탐색해 보기- [PDF](https://ldjwj.github.io/myDataAnalysis/toto_plotly_titanic.pdf)
 
+### 공공 데이터 분석
+ * 내용 : folium를 활용한 지도 시각화 - 부산광역시 100개의 횡단보도 위치 확인해 보기
+ * 데이터 불러와 탐색해 보기- [html](https://ldjwj.github.io/myDataAnalysis/busan.html)
+
 ### 캐글 코리아 4차 대회 분석
 
