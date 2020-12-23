@@ -19,12 +19,16 @@
  * 캐글의 4차대회에 대해 알아본다.
  * 데이터 출처 : ___
  * 나의 데이터 알아가기 흔적
-    * 데이터 불러와 탐색해 보기(1) (2) (3)- [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
-    * 데이터 불러와 기본 모델 만들어 보기 knn - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
-    * 데이터 불러와 데이터 전처리 후, 모델 knn - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
-    * pycaret 라이브러리를 활용한 모델 생성 - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
-    * 여러가지 모델 비교하기 - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
-    * 교차검증 및 lgbm 모델을 확인 한 최종 모델 - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+    * 대회에 대한 개요 및 데이터 설명
+    * 데이터 분석 절차 
+      * 데이터 시각화 기본 시각화(1) poltly를 활용(2) (3)- [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+      * 데이터 불러와 탐색해 보기(1) (2) (3)- [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+      * 데이터 불러와 기본 모델 만들어 보기 knn - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+      * 데이터 불러와 데이터 전처리 후, 모델 knn - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+      * pycaret 라이브러리를 활용한 모델 생성 - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+      * 여러가지 모델 비교하기 - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+      * 교차검증 및 lgbm 모델을 확인 한 최종 모델 - [HTML](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+    * 데이터 분석 결과 요약 
 
 
 
